@@ -8,4 +8,5 @@ I wanted to showcase some of my work, so I created this portfolio
 
 
 ### CAD Projects
-![A 3D printed case I designed](images/ardu_case_populated.png)
+<img src="images/ardu_case.png" width=100>
+![A 3D printed case I designed](images/ardu_case_populated.png)<size>
