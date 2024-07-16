@@ -1,12 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
 
 body {
-    background-color: #f1f;
-    padding:50px;
+    background-color: #706e69;
+    padding:20px;
     font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color:#727272;
     font-weight:400;
-  }
+}
+
+@import "{{ site.theme }}";
