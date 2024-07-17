@@ -12,14 +12,6 @@ body {
 }
 
 
-header {
-    width:190px;
-    float:left;
-    position:fixed;
-    -webkit-font-smoothing:subpixel-antialiased;
-    padding-bottom: 1px;
-}
-
 section {
     width:600px;
     float:right;
@@ -33,6 +25,7 @@ th, td {
 }
 
 ul {
-    margin:auto;
+    margin:0 0 0;
+
 }
 
