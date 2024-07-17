@@ -11,20 +11,18 @@ body {
     font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color:#4e944e;
-    margin:0 0 2px;
-}
-  
-p, ul, ol, table, pre, dl {
-    margin:0 0 2px;
-}
 
 header {
-    width:19px;
+    width:160px;
     float:left;
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
+
+section {
+    width:110%;
+    float:right;
+    padding-bottom:50px;
+  }
   
 
