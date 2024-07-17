@@ -14,11 +14,12 @@ body {
 header {
     width:190px;
     float:left;
-    padding-bottom: 1px;
+    position: fixed;
+    padding-bottom: 10px;
 }
 
 section {
-    width:auto;
+    width:400;
     float:right;
     padding-bottom:50px;
 }
