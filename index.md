@@ -6,6 +6,7 @@ I wanted to showcase some of my work, so I created this portfolio
 
 * Systems Engineering, MS | University of Rhode Island 2024 |
 * Industrial and Systems Engineering, BS | University of Rhode Island 2022 |
+
 pipes
 
 ### 3D Printing and Enclosure Designs
