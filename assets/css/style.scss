@@ -15,9 +15,9 @@ body {
 header {
     width:190px;
     float:left;
-    position: fixed;
-    padding-bottom: 10px;
-}
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
+  }
 
 section {
     width:400px;
