@@ -11,7 +11,7 @@ I wanted to showcase some of my work, so I created this portfolio
 ### 3D Printing and Enclosure Designs
 <img src="images/ardu_case.png" height=150>  <img src="images/ardu_case_populated.png" height=150> <img src="images/ardu_case_detail.png" height=150>
 
-<img src="images/assembly_line_controller_nocase.png" height=200> <img src="images/assembly_line_case.png" height=200>
+<img src="images/assembly_line_controller_nocase.png" height=150> <img src="images/assembly_line_case.png" height=150>
 
 # Lasers
 <img src="images/profiler.png" height=200>
