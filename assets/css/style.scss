@@ -1,5 +1,6 @@
 ---
 ---
+@import "{{ site.theme }}";
 
 
 body {
@@ -20,12 +21,10 @@ p, ul, ol, table, pre, dl {
 }
 
 header {
-    width:190px;
+    width:19px;
     float:left;
     position:fixed;
     -webkit-font-smoothing:subpixel-antialiased;
 }
   
 
-
-@import "{{ site.theme }}";
