@@ -17,7 +17,7 @@ ul marg
 # Lasers
 <img src="images/profiler.png" height=200>
 
-<img src="images/IMG_20210406_152803746.jpg" height=auto>
+<img src="images/IMG_20210406_152803746.jpg" height=120>
 <img src="images/IMG_20210420_183240448.jpg" height=120>
 <img src="images/IMG_20210614_120200268.jpg" height=120>
 <img src="images/IMG_20230329_203938764.jpg" height=120>
