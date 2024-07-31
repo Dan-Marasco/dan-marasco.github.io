@@ -1,0 +1,77 @@
+---
+---
+body {
+    background-color: #696969;
+    padding:5px;
+    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#727272;
+    font-weight:400;
+}
+
+@import "{{ site.theme }}";
+
+
+
+header {
+    width:180px;
+}
+
+
+section {
+    width:70vh;
+    padding: 20px 0px;
+    margin-left: 20px;
+}
+
+th, td {
+    text-align:left;
+    padding: 2px;
+    border-bottom:1px solid #e5e5e5;
+}
+
+ul {
+    margin:0 0 0;
+
+}
+
+view {
+    text-shadow: #696969;
+    color: chocolate;
+}
+
+
+@media print, screen and (max-width: 960px) {
+
+    div.wrapper {
+      width:auto;
+      margin:0;
+    }
+  
+    header, section, footer {
+      float:none;
+      position:static;
+      width:auto;
+    }
+  
+    header {
+      padding-right:320px;
+    }
+  
+    section {
+      border:1px solid #e5e5e5;
+      border-width:1px 0;
+      padding:10px 0;
+      margin:0 0 20px;
+    }
+  
+    header a small {
+      display:inline;
+    }
+  
+    header ul {
+      position:absolute;
+      right:50px;
+      top:52px;
+    }
+  }
+  
